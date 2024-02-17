@@ -26,7 +26,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =
+"25"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -140,17 +141,17 @@
 <br>
 <br>
 
-¡Bienvenido a mi perfil de GitHub!
+Welcome to my GitHub profile!
 
-Soy un apasionado programador de 20 años originario de México, lleno de energía y entusiasmo por contribuir a proyectos innovadores. Mi experiencia abarca diversos lenguajes de programación, destacando en Java y Python, así como en el manejo de bases de datos. Estoy constantemente buscando desafíos que impulsen mi crecimiento profesional y me permitan aportar mis habilidades al máximo.
+I am a passionate 20-year-old programmer originally from Mexico, full of energy and enthusiasm for contributing to innovative projects. My experience covers various programming languages, highlighting Java and Python, as well as database management. I am constantly looking for challenges that boost my professional growth and allow me to contribute my skills to the fullest.
 
-Desde joven, me he sumergido en el fascinante mundo de la programación, desarrollando soluciones creativas y eficientes. Mi dedicación a la resolución de problemas y mi habilidad para aprender rápidamente me han permitido destacar en diversos proyectos, demostrando un compromiso inquebrantable con la excelencia.
+Since I was young, I have immersed myself in the fascinating world of programming, developing creative and efficient solutions. My dedication to problem solving and my ability to learn quickly have allowed me to excel in various projects, demonstrating an unwavering commitment to excellence.
 
-Estoy ansioso por unirme a equipos dinámicos y colaborativos donde pueda poner a prueba mis habilidades y aprender de expertos en la industria. Siendo consciente de la importancia de la colaboración, estoy seguro de que mi actitud proactiva y mi capacidad para trabajar en equipo serán activos valiosos para cualquier proyecto.
+I am eager to join dynamic and collaborative teams where I can test my skills and learn from industry experts. Being aware of the importance of collaboration, I am confident that my proactive attitude and ability to work as a team will be valuable assets for any project.
 
-Además, mi enfoque orientado a resultados y mi amor por la programación me impulsan a buscar constantemente nuevas oportunidades para aprender y crecer. Estoy convencido de que cada proyecto es una oportunidad para superar desafíos y mejorar mis habilidades.
+Additionally, my results-oriented approach and love for programming drive me to constantly seek new opportunities to learn and grow. I am convinced that each project is an opportunity to overcome challenges and improve my skills.
 
-¡Estoy emocionado por formar parte de iniciativas innovadoras y contribuir con mi pasión por la programación! ¡Vamos a crear juntos soluciones que marquen la diferencia!
+I'm excited to be part of innovative initiatives and contribute my passion for programming! Let's create together solutions that make a difference!
 ---
 
 <br>
