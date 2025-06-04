@@ -18,15 +18,17 @@
 
 <img align="right" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-🔒 Aspiring Cybersecurity Professional
+Cybersecurity Learner | Developer-Turned-Hacker (Ethical, of course)
 
-🌐 Transitioning from full-stack development to security
+🌐 Former web and systems developer with C# and Python, now diving deep into InfoSec
 
-📚 Currently studying for CompTIA Security+ and OSCP
+🧠 Training in network security, digital forensics & offensive techniques
 
-🛡️ Passionate about ethical hacking and defense strategies
+🧰 Practicing daily on CTFs and security challenges
 
-💼 Seeking cybersecurity internships/apprenticeships
+📚 Pursuing Security+ → OSCP path
+
+🚀 Looking for hands-on roles in red/blue teaming, bug bounties & open-source security projects
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
@@ -81,12 +83,10 @@
 
 ### Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-hernandez-7638a9264)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/[YOUR_PROFILE])
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/[YOUR_ID])
 
 ### Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorhernadez51@gmail.com)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:[YOUR_PROTONMAIL])
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hectorswat@proton.me)
 
 ---
 
@@ -117,4 +117,3 @@ Looking for opportunities to:
 Let's make the digital world safer together! Always happy to connect with other security professionals and learners.
 
 "That which doesn't kill me makes me stronger."
-
